@@ -28,6 +28,12 @@ if (filteredGrades ==0) {
 
 console.log (`الدرجة غير موجوده`)
 
+}else{
+
+  console.log (`الدرجة موجوده`)
+
+
+
 }
 
 
